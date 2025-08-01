@@ -1,0 +1,16 @@
+{
+  "name": "simple-orders-app-backend",
+  "version": "1.0.0",
+  "description": "Backend untuk Simple Orders App",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "build": "echo 'No build step required'"
+  },
+  "author": "Indo Sukarno",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.17.0"
+  }
+}
