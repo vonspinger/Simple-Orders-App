@@ -8,7 +8,7 @@ Aplikasi "Simple Orders App" adalah sebuah aplikasi web yang dibangun menggunaka
 Clone repository ini ke dalam direktori lokal Anda dengan menggunakan perintah berikut:
 
 ```bash
-git https://github.com/vonspinger/Simple-Orders-App.git
+git clone https://github.com/vonspinger/Simple-Orders-App.git
 ```
 
 2. Instalasi Dependensi\
